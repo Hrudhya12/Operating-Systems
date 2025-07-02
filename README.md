@@ -2,7 +2,7 @@
 # Key Features #
  Detection
  User friendly input format 
- Clear Output indicating system.
+ Clear Output indicating system
  
  # how it works #
 1. Each process and its resource requests are modeled.
